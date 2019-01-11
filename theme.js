@@ -1,7 +1,3 @@
-/*
- * Created by Pixel-Mafia
- * www.pixel-mafia.com
-*/
 "use strict";
 
 var fullscreen_elem = document.documentElement,
